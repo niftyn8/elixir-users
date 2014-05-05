@@ -147,7 +147,7 @@
         "marker-color": "#FFDF5B"
       }
     },
-    
+
     {
       "type": "Feature",
       "geometry": {
@@ -162,7 +162,7 @@
         "marker-color": "#FFDF5B"
       }
     },
-    
+
     {
       "type": "Feature",
       "geometry": {
@@ -190,6 +190,22 @@
         "email": "mawuli.ypa@gmail.com",
         "marker-color": "#FFDF5B"
       }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+          "type": "Point",
+          "coordinates": [36.1667, 86.7833]
+      },
+      "properties": {
+        "name": "Nate West",
+        "github": "niftyn8",
+        "twitter": "niftyn8",
+        "email": "natescott.west@gmail.com",
+        "marker-color": "#FFDF5B"
+      }
     }
+
   ]
 }
